@@ -1,0 +1,105 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+body {
+    background-color: black; /* Fondo negro para toda la página */
+    color: white; /* Texto en blanco para mejor contraste */
+}
+
+.menu {
+    color: purple; /* Color morado para el menú */
+}
+
+.usuarios-container {
+    padding: 20px; 
+    background-color: #333; /* Fondo oscuro para el contenedor de usuarios */
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); 
+}
+
+.titulo-usuarios {
+    font-size: 2em; 
+    color: purple; /* Título en morado */
+    margin-bottom: 10px; 
+}
+
+.descripcion-usuarios {
+    font-size: 1.2em; 
+    color: #ccc; /* Color gris claro para la descripción */
+    margin-bottom: 20px; 
+}
+
+.usuarios-table {
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+.table-header {
+    background-color: purple; /* Encabezado de tabla en morado */
+    color: white; /* Texto en blanco */
+    padding: 10px; 
+    border: 1px solid black; 
+}
+
+.table-data {
+    padding: 10px;
+    border: 1px solid black; 
+    color: white; /* Texto en blanco para los datos de la tabla */
+}
+
+.link-usuario {
+    color: purple; /* Enlaces en morado */
+    text-decoration: none; 
+}
+
+.link-usuario:hover {
+    text-decoration: underline; 
+}
+
+.noticias-container {
+    padding: 20px; 
+    background-color: #333; /* Fondo oscuro para el contenedor de noticias */
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); 
+}
+
+.titulo-noticias {
+    font-size: 2em; 
+    color: purple; /* Título en morado */
+    margin-bottom: 10px; 
+}
+
+.descripcion-noticias {
+    font-size: 1.2em; 
+    color: #ccc; /* Color gris claro para la descripción */
+    margin-bottom: 20px; 
+}
+
+.noticias-table {
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+.table-header {
+    background-color: purple; /* Encabezado de tabla en morado */
+    color: white; 
+    padding: 10px; 
+    border: 1px solid black; 
+}
+
+.table-data {
+    padding: 10px; 
+    border: 1px solid black; 
+    color: white; /* Texto en blanco para los datos de la tabla */
+}
+
+.link-universidad {
+    color: purple; /* Enlaces en morado */
+    text-decoration: none; 
+}
+
+.link-universidad:hover {
+    text-decoration: underline; 
+}
